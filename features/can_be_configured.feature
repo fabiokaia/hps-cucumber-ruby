@@ -21,4 +21,4 @@ Feature: Can be configured
     When I switch to settings mode
     Then settings should be:
       | water hardness | 2      |
-      | grinder        | medium |
+      | grinder        | x |
